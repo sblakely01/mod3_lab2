@@ -26,6 +26,8 @@ h1 {
     color: #68778D;
     text-align: center;
     margin: 1.2rem;
+    font-size: 15px;
+    font-family: 'Outfit';
 }
 @media (max-width: 1200px) {
     .card {
